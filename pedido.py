@@ -12,7 +12,7 @@ def hover(event):
     nao.place(x=x, y=y)
 
 def mensagem():
-    message = tk.Label(root, text='Te amo tupilinha <3')
+    message = tk.Label(root, text='<3 <3 <3')
     message.place(x=70, y=120, relx=0, rely=0)
 
 pergunta = tk.Label(root, text='Aceita namorar comigo?')
